@@ -9,7 +9,7 @@
 ================================ */
 
 
-const portfolioUSDC = 125000;
+const portfolioUSDC = 193945.53;
 
 
 
